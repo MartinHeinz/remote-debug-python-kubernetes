@@ -63,8 +63,8 @@ kubectl port-forward "$APP2_POD" 5679:5678 &
 3. Add breakpoints to your code
 4. Launch debugger(s)
 
-<img src="./assets/vscode-setup.png" width=75% height=75%>
+<img src="./assets/vscode-setup.png">
 
 5. Query application API (`curl localhost:5000`)
 
-<img src="./assets/vscode-breakpoint-hit.png" width=75% height=75%>
+<img src="./assets/vscode-breakpoint-hit.png">
