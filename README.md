@@ -1,4 +1,4 @@
-# Remote Debugging Python on Kubernetes
+# Remote Debugging Python Applications Runnning on Kubernetes
 
 Setup for remote and interactive debugging of Python application running in Kubernetes.
 
