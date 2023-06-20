@@ -8,7 +8,7 @@ Repository includes two sample applications (`app1` and `app2` directories) and 
 
 Accompanying article:
 
-- [TODO](TODO)
+- [Remote Interactive Debugging of Python Applications Running in Kubernetes](https://betterprogramming.pub/remote-interactive-debugging-of-python-applications-running-in-kubernetes-17a3d2eed86f)
 
 ----------
 
